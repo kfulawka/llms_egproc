@@ -2,7 +2,7 @@
 
 The workshop introduces the use of open-source large language models (LLMs) to identify decisions reasons from verbal reports. 
 
-By [Kamil Fulawka]([https://zak-hussain.github.io/](https://www.mpib-berlin.mpg.de/person/114650/2549)) and [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549)
+By [Kamil Fulawka](https://www.mpib-berlin.mpg.de/person/114650/2549) and [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549)
 
 ### Schedule
 
