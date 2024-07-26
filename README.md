@@ -38,9 +38,9 @@ drive.mount("/content/drive")
 4. Create a second cell in your notebook using the "+ Code" button that appears when you hover your cursor right under the first cell. Copy and run the following code snippet in the second cell of your notebook to clone the GitHub repository to your Google Drive :
 ```
 %cd /content/drive/MyDrive
-!git clone https://github.com/Zak-Hussain/LLM4BeSci_GSERM2024.git
+!git clone https://github.com/kfulawka/llms_egproc.git
 ```
-5. Go back to your Google Drive and navigate to the folder "LLM4SocBeSci". You should see the directories `day_1`, `day_2`,`day_3`, `day_4`, and `day_5` containing the relevant notebooks (.ipynb files) and data (it may take  a couple of minutes for the files to appear) for the exercises of each day.
+5. Go back to your Google Drive and navigate to the folder "llms_egproc". You should see the directories XXX containing the relevant notebooks (.ipynb files) and data (it may take  a couple of minutes for the files to appear).
 6. Open the folder `exercise` and then the `exercise.ipynb` notebook. A new Colab window will open.
 7. Run the first cell of the notebook to install the required packages. This may take a few minutes and ask for you to give permission to access your Google Drive. 
 
