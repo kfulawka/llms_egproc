@@ -1,0 +1,10 @@
+decision reason name,decision reason description
+minimum outcome,The reason considers the minimum outcome of each lottery. The reason prefers the lottery with the more favorable minimum outcome.
+maximum outcome,The reason considers the maximum outcome of each lottery. The reason prefers the lottery with the more favorable maximum outcome.
+most likely outcome,"The reason considers the most probable outcomes, that is the outcomes with the highest probability of each lottery. If there is more than one outcome with the highest probability, the more favorable one is considered. The reason prefers the lottery with the more favorable most probable outcome. "
+least likely outcome,"The reason considers the least probable outcomes, that is the outcomes with the lowest probability of each lottery. If there is more than one outcome with the lowest probability, the more favorable one is considered. The reason prefers the lottery with the more favorable least probable outcome."
+zero outcome probability,The reason considers the probability of a zero outcome of each lottery. The reason prefers the lottery with the probability of the zero outcome that is more favorable in the context of the possible outcomes.
+sure outcome,"The reason considers the presence of a sure outcome, that is an outcome with 100% probability, of each lottery. The reason prefers the lottery with or without the sure outcome, depending on whether the sure outcome is a favorable outcome in the context of all possible outcomes."
+expected value,The reason considers the expected value of each lottery. The reason prefers the lottery with the higher expected value.
+loss aversion,"The reason considers the outcomes of each lottery. Losses are considered more important than gains. The reason prefers the lottery with the more favorable loss or, if losses are identical, the lower loss probability."
+regret,The reason considers the outcomes of each lottery. The sum of all pairwise differences of outcomes between the lotteries is considered important. The reason prefers the lottery with the more favorable sum of outcome differences.

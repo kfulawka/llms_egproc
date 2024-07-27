@@ -1,0 +1,25 @@
+problem_id,decision_problem
+1,"Lottery A:
+32 Euros with 10% probability
+0 Euros with 90% probability
+
+Lottery B:
+3 Euros with 100% probability"
+2,"Lottery A:
+-32 Euros with 10% probability
+0 Euros with 90% probability
+
+Lottery B:
+-3 Euros with 100% probability"
+3,"Lottery A:
+4 Euros with 80% probability
+0 Euros with 20% probability
+
+Lottery B:
+3 Euros with 100% probability"
+4,"Lottery A:
+-4 Euros with 80% probability
+0 Euros with 20% probability
+
+Lottery B:
+-3 Euros with 100% probability"
