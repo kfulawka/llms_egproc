@@ -13,7 +13,7 @@ By [Kamil Fulawka](https://www.mpib-berlin.mpg.de/person/114650/2549) and [Dirk 
 11:30 AM - 12:30 PM: Intro to verbal reports in JDM research<br>
 12:30 PM - 14:00 PM: Lunch<br>
 14:00 PM - 15:30 PM: Identifying decisions in verbal reports incl. exercise<br>
-15:30 PM - 16:00 PM: Coffee break<be>
+15:30 PM - 16:00 PM: Coffee break<br>
 16:00 PM - 17:30 PM: Exercise continued<br>
 
 
