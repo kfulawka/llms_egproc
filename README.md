@@ -26,9 +26,7 @@ By [Kamil Fulawka](https://www.mpib-berlin.mpg.de/person/114650/2549) and [Dirk 
 [But what is a GPT (3Blue1Brown)](https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5)<br>
 
 #### Prompt Engineering Guides
-[By DAIR.AI](https://www.promptingguide.ai/)<br>
-[By OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)<br>
-[By Meta](https://llama.meta.com/docs/how-to-guides/prompting)
+[By DAIR.AI](https://www.promptingguide.ai/)<br>; [By OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)<br>; [By Meta](https://llama.meta.com/docs/how-to-guides/prompting)
 
 
 ### Installation Instructions
