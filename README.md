@@ -20,13 +20,15 @@ By [Kamil Fulawka](https://www.mpib-berlin.mpg.de/person/114650/2549) and [Dirk 
 ### Resources
 
 #### On LLMs
-<a href="https://osf.io/preprints/psyarxiv/f7stn">Hussain, Binz, Mata, & Wulff (2024) A tutorial on open-source large language models for behavioral science</a>
+<a href="https://osf.io/preprints/psyarxiv/f7stn">Hussain, Binz, Mata, & Wulff (2024) A tutorial on open-source large language models for behavioral science</a><br>
 [Hugging face documentation](https://huggingface.co/docs)<br>
 [Hugging face book](https://transformersbook.com/)<br>
 [But what is a GPT (3Blue1Brown)](https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5)<br>
 
-#### Prompt Engineering Guides
-[By DAIR.AI](https://www.promptingguide.ai/); [By OpenAI](https://platform.openai.com/docs/guides/prompt-engineering); [By Meta](https://llama.meta.com/docs/how-to-guides/prompting)
+#### Prompt Engineering
+[Comprehensive guide by DAIR.AI](https://www.promptingguide.ai/)<br>
+[Another extensive guide by OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)<br>
+[Compact guide by Meta](https://llama.meta.com/docs/how-to-guides/prompting)<br>
 
 
 ### Installation Instructions
